@@ -112,6 +112,10 @@ export default function Home() {
         </article>
       </div>
     </div>
+    <footer className="flex items-center justify-center w-full h-24 border-t">
+        Not affiliated to Bald and Bankrupt 
+      </footer>
     </div>
+    
   )
 }

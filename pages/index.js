@@ -87,17 +87,22 @@ export default function Home() {
             Photo by <a href="https://unsplash.com/@sickle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Sergey Pesterev</a> on <a href="https://unsplash.com/s/photos/baikal?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
           </p>
           <p>
-            The <span className="font-semibold">Baikal–Amur Mainline</span> is an eastern railway line on which mister bald travels in this video. It runs north and parralel of the trans-siberian traditionnal line.
+            The <span className="font-semibold">Baikal–Amur Mainline (BAM)</span> is an eastern railway line on which mister bald travels in this video. It runs north and roughly parralel of the trans-siberian traditionnal line.
             The russian built the line in 1970 because they were scared of the proximity with China of the trans-siberian line that existed before. They thought that, in case of a conflict, the trans-siberian line could be easily blocked by China, preventing russian troops dispatch to the front.
-            Building the line cost a lot of money since the terrain was far from welcoming, the line counts 4200+ bridges and 21 tunnels and passes through very cold areas.
           </p>
           <p>
+            Building the line cost a lot of money since the terrain was far from welcoming, the line counts 4200+ bridges and 21 tunnels and passes through very cold areas.
             The main line is 4,300 km long between Tayshet and Sovetskaya Gavan. Mister Bald rode it from Tayshet to Tynda for about 2,300 km.
           </p>
           <p>
             <img src="/img/bam-1.png"/>
             <img src="/img/bam-2.jpg"/>
           </p>
+          <p>
+            Here probably ends the eastern siberian adventure for Benjamin as he stated that he would then take a flight back to St-Petersburg.
+            I find it particularly interesting to follow this journey through lesser known and distant railroads, beautiful landscape and soviet culture.
+          </p>          
+
         </article>
         <article className="">
           <h1>BAM TRIP 2</h1>

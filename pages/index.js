@@ -95,7 +95,7 @@ export default function Home() {
             The main line is 4,300 km long between Tayshet and Sovetskaya Gavan. Mister Bald rode it from Tayshet to Tynda for about 2,300 km.
           </p>
           <p>
-            <img src="/img/bam-1.jpg"/>
+            <img src="/img/bam-1.png"/>
             <img src="/img/bam-2.jpg"/>
           </p>
         </article>

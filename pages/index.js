@@ -41,7 +41,7 @@ export default function Home() {
           </ul>
           These south siberian cities average quite low temperatures, between -10°C and 10°C in autumn (time of the video) but can easily reach -20°C in the coldest season.
           They were mainly founded in the 1970s as work settlements for workers constructing the BAM, bald mentions this at <a href="https://youtu.be/f2d7kJPimyE?t=876">14:36</a> in his video.
-          The population is now declining, for instance in Tynda, according to Wikipedia, population went from more than 60 000 to 35 000 between its best years and now.
+          The population is now declining due to unemployement and low use of the train line, for instance in Tynda, according to Wikipedia, population went from more than 60 000 to 35 000 between its best years and now.
           </p>
           <iframe className="m-auto"
           src="https://www.google.com/maps/embed?pb=!1m40!1m12!1m3!1d9189084.534616245!2d102.40249234659447!3d55.785791056288915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m25!3e0!4m5!1s0x5ce0601bde5e755f%3A0x75f1c37fed1dd46b!2sTayshet%2C Irkutskaya oblast'%2C Russia%2C 665001!3m2!1d55.939329199999996!2d98.0008311!4m5!1s0x5c5176c4b20a01d9%3A0xd3e2594335a17047!2sSeverobaykalsk%2C Buryatia%2C Russia!3m2!1d55.627857999999996!2d109.3149162!4m5!1s0x5c4f94e4c56c2bdf%3A0xdb6d19523516431d!2sNovy Uoyan%2C Buryatia%2C Russia%2C 671732!3m2!1d56.1393597!2d111.7247721!4m5!1s0x5c2117c3fe7d7b2b%3A0xae18d4bb2c34e795!2sTında%2C Amur Oblast%2C Russia!3m2!1d55.1438334!2d124.7413766!5e0!3m2!1sen!2sfr!4v1635339515434!5m2!1sen!2sfr"

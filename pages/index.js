@@ -5,7 +5,7 @@ export default function Home() {
     <div className="min-h-screen">
     <div className="container mx-auto px-5">
       <Head>
-        <title>Create Next App Mine</title>
+        <title>BAB Trips</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <section className="flex-col md:flex-row flex items-center md:justify-between mt-16 mb-16 md:mb-12">
@@ -17,7 +17,7 @@ export default function Home() {
         <article> 
           <div className="tg-header">
             <div className="tg-title">
-            <h1 className="text-6xl md:text-8xl font-semibold tracking-tighter leading-tight md:pr-8">BAM 3</h1>
+            <h1 className="text-4xl md:text-6xl font-semibold tracking-tighter leading-tight md:pr-8">BAM 3</h1>
             </div>
             <div className="tg-video border-2 aspect-w-16 aspect-h-9 px-8">
             <iframe className="mx-auto"

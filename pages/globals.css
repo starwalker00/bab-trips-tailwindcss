@@ -1,0 +1,17 @@
+/* ./globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a {
+    @apply underline text-gray-800;
+  }
+
+p {
+    @apply py-4 max-w-2xl mx-auto;
+}
+
+ul {
+    @apply py-4 max-w-2xl mx-auto;
+}
+
